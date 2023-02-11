@@ -1,0 +1,3 @@
+- The *IL* directory targets Home A.
+- The *IL_homeB* directory targets Home B.
+- Additional homes like Home C can be investigated in exactly the same way.
