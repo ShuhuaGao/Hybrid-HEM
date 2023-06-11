@@ -20,3 +20,4 @@ type the following two commands to set up the proper Julia environment.
   - Run *notebook\IL\inspection.ipynb* to inspect characteristics of the algorithms as shown in the paper.
 - The home configuration and scenario data are stored in the *./data* directory.
 - The other directories contain intermediate images, data, and models etc.
+- Code for RL algorithms is available in a separate repository: <https://github.com/handworker222/HEMS_RL>.
